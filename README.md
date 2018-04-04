@@ -62,7 +62,7 @@ UA18 A5 LAX 10:15
 ```
 
 ### Solution
-This is a Spring Boot command line runner application. In the next secctions I'll gonna explain how to test it in an easy way.
+This is a Spring Boot command line runner application. In the next secctions I'll gonna explain how to run it in an easy way.
 
 Requirement to run the microservice:
 * Java 8
