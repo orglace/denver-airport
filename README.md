@@ -54,7 +54,8 @@ UA18 A5 LAX 10:15
 ```
 
 #### Example Output:
-```0001 Concourse_A_Ticketing A5 A1 : 11
+```
+0001 Concourse_A_Ticketing A5 A1 : 11
 0002 A5 A1 A2 A3 A4 : 9
 0003 A2 A1 : 1
 0004 A8 A9 A10 A5 : 6
