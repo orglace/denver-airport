@@ -71,7 +71,7 @@ Requirement to run the microservice:
 
 To run and test this solution please make the following steps.
 
-1. Clone the github repository to the local machine (or download it from https://github.com/orglace/denver-airport/archive/master.zip). Then open a terminal en your computer and type:
+1. Clone the github repository to the local machine (or download it from https://github.com/orglace/denver-airport/archive/master.zip). So open a terminal en your computer and type:
 
 ```
 $ git clone git@github.com:orglace/denver-airport.git
